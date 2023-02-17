@@ -16,4 +16,3 @@ const colorChenge = (elem) => {
 }
 colorChenge(p)
 colorChenge(h1)
-colorChenge(btn)
