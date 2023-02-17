@@ -2,3 +2,8 @@ h1 {
     text-align: center;
     color: blueviolet;
 }
+
+button {
+    width: 500px;
+    aspect-ratio: 1/1;
+}
