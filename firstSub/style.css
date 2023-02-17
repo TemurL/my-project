@@ -7,3 +7,8 @@ h1 {
 h1:hover {
     color: chocolate;
 }
+
+button {
+    width: 500px;
+    aspect-ratio: 1/1;
+}
