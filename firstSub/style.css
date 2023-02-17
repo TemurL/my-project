@@ -1,4 +1,9 @@
 h1 {
     text-align: center;
     color: blueviolet;
+    transition: .4s;
+}
+
+h1:hover {
+    color: chocolate;
 }
