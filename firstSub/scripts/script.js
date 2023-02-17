@@ -1,6 +1,6 @@
 const h1 = document.querySelector('h1');
 const p = document.querySelector('p')
-
+const btn = document.querySelector('button')
 const colorChenge = (elem) => {
     elem.style.transition = '.3s'
     setInterval(() => {
@@ -14,5 +14,5 @@ const colorChenge = (elem) => {
     
     }, 3000)
 }
-
+colorChenge(p)
 colorChenge(h1)
